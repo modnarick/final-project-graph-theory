@@ -1,4 +1,4 @@
-# Enemy AI Pathfinding
+# AI Pathfinding in a Video Game
 ## <a href="google.com">Download the Game Here! </a> 
 
 <table align="center">
